@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author erick
- *
- */
-module Moedas {
-}
